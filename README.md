@@ -10,3 +10,9 @@ _This repo serves as our primary way of keeping [track of bugs](https://github.c
 [QR Code Expert - Ad-free & No-login Online Beautiful QR Code Generator / Scanner](https://qrcode.expert)
 <br/>
 _Free online QR code generator – create high-quality, customizable, beautiful QR codes (including animated ones) with your logo, colors, and design. Download in SVG, PNG, TXT & more. No signup needed. Instantly scan QR codes from image or webcam on desktop or mobile without any app._
+
+<br/><br/>
+**Want to turn every sale into a lasting customer relationship? Check out our other project:**
+[Sale-Tale.com – Customer Feedback & Engagement Platform](https://sale-tale.com)
+<br/>
+_Connect with your customers after every purchase using QR codes. Collect product reviews, ratings, and photos, engage directly with buyers, and build lasting customer relationships. Make it easy for customers to share their experiences and help your business grow._
