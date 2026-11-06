@@ -6,10 +6,10 @@ Put the output XML files into the ‘res/drawable’ directory of your app and r
 _This repo serves as our primary way of keeping [track of bugs](https://github.com/logicfactory/svg2vector/issues)._
 
 <br/><br/>
-**Need a beautiful QR code? Check out our other project:**
-[QR Code Expert - Ad-free & No-login Online Beautiful QR Code Generator / Scanner](https://qrcode.expert)
+**Want to make sure your QR codes actually work? Check out our other project:**
+[QR Code Validator & Analyzer – Validate, Test & Verify QR Codes Online](https://qr-code-validator.com)
 <br/>
-_Free online QR code generator – create high-quality, customizable, beautiful QR codes (including animated ones) with your logo, colors, and design. Download in SVG, PNG, TXT & more. No signup needed. Instantly scan QR codes from image or webcam on desktop or mobile without any app._
+_Free online QR code validator and analyzer – instantly check whether your QR codes are valid, readable, and working as expected. Detect potential issues, analyze QR code content, and ensure your codes can be scanned reliably before printing or sharing. Perfect for businesses, marketers, developers, and anyone who wants to ensure their QR codes work flawlessly._
 
 <br/><br/>
 **Want to turn every sale into a lasting customer relationship? Check out our other project:**
